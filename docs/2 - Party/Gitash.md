@@ -5,8 +5,7 @@
 - **Background:** Criminal
 - **Look:** Languid, Short, Smiling, Tanned
 
-## Vice
-**Obligation**
+## Vice: Obligation
 Gitash has acted as a spy and criminal for his family clan for years. But too much time on both sides have made him an outsider to all. But he still gives to keep his clan strong. 
 
 ## Contacts

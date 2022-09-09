@@ -5,8 +5,7 @@
 - **Background:** Craftsman
 - **Look:** Broad, medium heigh, heavy blade, lots of alchemical metal-covered vials with pressure releases
 
-## Vice
-**Weird**
+## Vice: Weird
 Experimental study of alchemy and supernatural properties of monster flesh
 
 ## Contacts

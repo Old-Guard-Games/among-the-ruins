@@ -5,8 +5,7 @@
 - **Background:** Aristocrat (House Focilo)
 - **Look:** Powerfully ugly, teeth rotting and falling out, skin on his face looks melted
 
-## Vice
-**Faith**
+## Vice: Faith
 
 ## Contacts
 - +Dajhira, dealer in oddities

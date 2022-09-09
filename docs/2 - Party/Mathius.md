@@ -5,8 +5,8 @@
 - **Background:** Priest of Maloch
 - **Look:** tall and muscular, covered in tattoos of fulfilled and open debts
 
-## Vice
-**Faith**
+## Vice: Faith
+
 Spreading the faith and teachings of Maloch
 
 ## Contacts
